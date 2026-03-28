@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Raccoon 
 
-I'm a student from VietNam
+I eat stuff
 
