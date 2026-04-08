@@ -6,5 +6,7 @@ I rummaged through your things.
 
 Beware 😈  
 
-<img align="center" src="assets/holding_flower.png" width="600" hspace="30">
+<p align="center">
+  <img src="assets/holding_flower.png" width="300">
+</p>
 
