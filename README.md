@@ -1,7 +1,3 @@
-<table border="0">
-<tr>
-<td>
-
 ## Hi 👋
 
 I'm Raccoon  
@@ -10,11 +6,5 @@ I rummaged through your things.
 
 Beware 😈  
 
-</td>
+<img align="right" src="assets/holding_flower.png" width="250" hspace="10">
 
-<td>
-<img src="assets/holding_flower.png" width="400">
-</td>
-
-</tr>
-</table>
