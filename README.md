@@ -1,6 +1,6 @@
-<table>
+<table style="border: none;">
 <tr>
-<td>
+<td style="border: none;">
 
 ## Hi 👋
 
@@ -12,8 +12,8 @@ Beware 😈
 
 </td>
 
-<td>
-<img src="assets/holding_flower.png" width="250">
+<td style="border: none;">
+<img src="assets/holding_flower.png" width="400">
 </td>
 
 </tr>
