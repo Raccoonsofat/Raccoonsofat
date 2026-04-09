@@ -3,7 +3,7 @@
 </p>
 
 <h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<img width="35%" align="right" alt="Github" src="./assets/nerd.png" />
 <p>
    I'm Raccoon!🦝 
 <p>
@@ -13,8 +13,6 @@
 </br>
   Beware <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-<img width="35%" align="right" alt="Github" src="./assets/nerd.png" />
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
