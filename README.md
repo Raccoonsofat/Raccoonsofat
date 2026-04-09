@@ -6,6 +6,10 @@
 
 <img width="25%" align="right" alt="Github" src="./assets/nerd.png" />
 
+<p align="right"><em>
+  "Uhm...Actually......."
+</em></p>
+
 <p>
    I'm Raccoon!🦝 
 <p>
