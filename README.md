@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/holding_flower.png" width="100">
+  <img src="./assets/holding_flower.png" width="500">
 </p>
 
 <h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
