@@ -1,17 +1,10 @@
-## Hi 👋
-
-I'm Raccoon  
-
-I rummaged through your things.  
-
-Beware 😈  
 
 <div>
 <img src="assets/holding_flower.png" width="600" align="right" />
 <br/>
 <br/>
 
-I'm Raccoon  
+I'm Raccoon 🦝
 
 I rummaged through your things.  
 
