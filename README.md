@@ -3,6 +3,9 @@
 </p>
 
 <h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="right"><em>
+  "Uhm...Actually......."
+</em></p>
 <img width="25%" align="right" alt="Github" src="./assets/nerd.png" />
 <p>
    I'm Raccoon!🦝 
