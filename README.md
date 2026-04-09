@@ -12,3 +12,5 @@
 <p align="center">
   <img src="./assets/holding_flower.png" width="650">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
