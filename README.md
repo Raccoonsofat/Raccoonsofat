@@ -18,6 +18,7 @@ Child at heart (i see the world as magical ✨)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :D
 
+<img src="./assets/yes.png" width="50">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&width=1400"
        width="100%"/>
