@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Raccoon&fontSize=40&fontAlignY=35)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Raccoon&fontSize=40&width=1400"
+       width="100%">
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi👋&fontSize=30&fontColor=ff4d6d&height=40"><br>
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Raccoon%20🦝&fontSize=28&fontColor=4dabf7&height=40"><br>
