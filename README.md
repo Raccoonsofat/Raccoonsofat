@@ -18,7 +18,7 @@ Child at heart (i see the world as magical ✨)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!<img src="./assets/yes.png" width="70">
 
-<div style="width:90%; margin-left:auto;">
+<div style="width:50%; margin-left:auto;">
   <p align="right">"Uhm...Actually......"</p>
 </div>
 
