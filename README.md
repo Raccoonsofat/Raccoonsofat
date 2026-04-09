@@ -1,10 +1,9 @@
-## Hi 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Raccoon&fontSize=40&fontAlignY=35)
 
-<p style="font-size:150px;">I'm Raccoon 🦝</p>
-<p style="font-size:150px;">I rummaged through your things.</p>
-<p style="font-size:150px;">Beware 😈</p> 
-
-<p align="center" style="margin-top: -60px; margin-bottom: 0;">
-  <img src="assets/holding_flower.png" width="600">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋;I'm+Raccoon;I+rummaged+through+your+things;Beware😈&center=true&size=25">
 </p>
 
+<p align="center" style="margin-top:-40px;">
+  <img src="assets/holding_flower.png" width="600">
+</p>
