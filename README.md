@@ -4,11 +4,7 @@
 
 <h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img width="20%" align="right" alt="Github" src="./assets/nerd.png" />
-
-<p align="right"><em>
-  "Uhm...Actually......."
-</em></p>
+<img width="25%" align="right" alt="Github" src="./assets/nerd.png" />
 
 <p>
    I'm Raccoon!🦝 
@@ -23,6 +19,10 @@
 Child at heart (i see the world as magical ✨)
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!<img src="./assets/yes.png" width="70">
+
+<p align="right"><em>
+  "Uhm...Actually......."
+</em></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&width=1400"
        width="100%"/>
