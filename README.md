@@ -7,10 +7,10 @@
 <img width="25%" align="right" alt="Github" src="./assets/nerd.png" />
 <p>
    I'm Raccoon!🦝 
-<p>
   <p align="right"><em>
   "Uhm...Actually......."
 </em></p>
+<p>
 <p><em>
   I rummaged through your things 
 </br>
