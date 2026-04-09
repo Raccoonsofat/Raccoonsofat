@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi👋&fontSize=30&fontColor=ff4d6d"><br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Raccoon&fontSize=25&fontColor=4dabf7"><br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Beware😈&fontSize=25&fontColor=f59f00">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Raccoon%20🦝&fontSize=28&fontColor=4dabf7"><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I%20rummaged%20through%20your%20things.&fontSize=26&fontColor=51cf66"><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Beware%20😈&fontSize=28&fontColor=f59f00">
 </p>
 
 <p align="center" style="margin-top:-40px;">
