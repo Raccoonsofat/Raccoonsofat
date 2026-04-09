@@ -11,7 +11,7 @@ Beware 😈
 
 <br/>
 </div>
-<p align="center">
-  <img src="assets/nerd.png" width="600">
+<p align="left">
+  <img src="assets/nerd.png" width="500">
 </p>
 
