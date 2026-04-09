@@ -3,7 +3,7 @@
 </p>
 
 <h2> Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img width="15%" align="right" alt="Github" src="./assets/nerd.png" />
+<img width="20%" align="right" alt="Github" src="./assets/nerd.png" />
 <p>
    I'm Raccoon!🦝 
 <p>
