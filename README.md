@@ -10,5 +10,5 @@
 </p>
 
 <p align="center" style="margin-top:-40px;">
-  <img src="./assets/holding_flower.png" width="600">
+  <img src="./assets/holding_flower.png" width="650">
 </p>
